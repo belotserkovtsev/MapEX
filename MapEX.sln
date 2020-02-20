@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapEX.Android", "MapEX.Android\MapEX.Android.csproj", "{056E8C9D-3989-4D95-8C3C-E77793B6373F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapEX", "MapEX\MapEX.csproj", "{87B69773-C10B-4C90-AFE5-21183C8CEE1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{056E8C9D-3989-4D95-8C3C-E77793B6373F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{056E8C9D-3989-4D95-8C3C-E77793B6373F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{056E8C9D-3989-4D95-8C3C-E77793B6373F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{056E8C9D-3989-4D95-8C3C-E77793B6373F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87B69773-C10B-4C90-AFE5-21183C8CEE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B69773-C10B-4C90-AFE5-21183C8CEE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B69773-C10B-4C90-AFE5-21183C8CEE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B69773-C10B-4C90-AFE5-21183C8CEE1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.VersionControlPolicy = $2
+	EndGlobalSection
+EndGlobal
